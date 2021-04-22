@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @4dqc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @1080 illusions street 
+- 👀 I’m interested in ...B
+- 🌱 I’m currently learning ...All
+- 💞️ I’m looking to collaborate on ...Truth
+- 📫 How to reach me ...now
 
 <!---
 4dqc/4dqc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
